@@ -9,20 +9,23 @@
       "likes": 1000,
       "recipes": [
         {
-          "name": "Tom Yum Soup",
+          "_id": "1",
+            "name": "Tom Yum Soup",
           "image": "https://img.freepik.com/free-photo/thai-food-tom-yum-seafood-seafood-spicy-soup_1150-38147.jpg?w=1380&t=st=1683097972~exp=1683098572~hmac=2675a59ddbd9a8a89f6fe73e95f5c2c19e89af97605ec90f5ca7a30e85627a72",
           "ingredients": "lemongrass, galangal, kaffir lime leaves, chili peppers, fish sauce, lime juice, shrimp",
           "cookingMethod": "In a pot, bring water to a boil and add lemongrass, galangal, and kaffir lime leaves. Add chili peppers and fish sauce. Simmer for 5 minutes. Add shrimp and cook until they turn pink. Stir in lime juice and serve hot.",
           "rating": 4.5
         },
         {
-          "name": "Pad Thai",
+          "_id": "2",
+            "name": "Pad Thai",
           "image": "https://img.freepik.com/free-photo/thai-food-noodles-spicy-boil-with-pork-boil-egg_1150-27970.jpg?w=1380&t=st=1683098018~exp=1683098618~hmac=6a16ac52e596d5ae1428a0e8a15eddbdea4ffb06860f841618abe4605d1f9ab7",
           "ingredients": "rice noodles, shrimp, tofu, eggs, bean sprouts, green onions, peanuts, tamarind paste",
           "cookingMethod": "Soak rice noodles in water for 30 minutes. In a pan, cook shrimp and tofu until brown. Add eggs and scramble. Add noodles, bean sprouts, and green onions. Stir in tamarind paste and peanuts. Cook for 2-3 minutes, or until noodles are soft.",
           "rating": 4.8
         },
         {
+          "_id": "3",
           "name": "Green Curry",
           "image": "https://img.freepik.com/free-photo/high-angle-chicken-meal_23-2148825122.jpg?w=1380&t=st=1683098076~exp=1683098676~hmac=ca5dfcf17a5e1a11b8d7eaad7593b2bbac6032863527f4a32bb4f15aaeec86dc",
           "ingredients": "green curry paste, coconut milk, chicken, eggplant, bamboo shoots, basil leaves",
@@ -41,6 +44,7 @@
         "likes": 2000,
         "recipes": [
           {
+            "_id": "1",
             "name": "Tom Kha Gai",
             "image": "https://img.freepik.com/free-photo/tom-kha-kai-pan-frying-with-kaffir-lime-leaves-lemongrass-red-onion-galangal-chilli_1150-21258.jpg?w=1380&t=st=1683098125~exp=1683098725~hmac=f49a9ebbade22e3f2e9c571988fc6a627b3ab27a8fd413addbc660e51e3fedc5",
             "ingredients": "coconut milk, chicken, galangal, lemongrass, kaffir lime leaves, mushrooms, chili peppers, fish sauce, lime juice",
@@ -48,6 +52,7 @@
             "rating": 4.9
           },
           {
+            "_id": "2",
             "name": "Massaman Curry",
             "image": "https://img.freepik.com/free-photo/curry-with-chicken-onions-indian-food-asian-cuisine_2829-4415.jpg?w=1380&t=st=1683098163~exp=1683098763~hmac=5a01ee89f924bb8d5b0db1d48284f26ea389024a0d5ce8fbf653a8ad0e419557",
             "ingredients": "massaman curry paste, coconut milk, beef, potatoes, peanuts, onions, cinnamon, bay leaves",
@@ -55,6 +60,7 @@
             "rating": 4.7
           },
           {
+            "_id": "3",
             "name": "Som Tum",
             "image": "https://img.freepik.com/free-photo/food-mix-salad-noodles-grillea-chicken-garlic-greena-top-view_141793-15488.jpg?w=1380&t=st=1683098195~exp=1683098795~hmac=eef21598532807ec3a654d9373cc022956ddbe9a561e25bf05dccbffd6056868",
             "ingredients": "green papaya, tomatoes, green beans, peanuts, dried shrimp, garlic, chili peppers, palm sugar, fish sauce, lime juice",
@@ -73,6 +79,7 @@
         "likes": 2000,
         "recipes": [
           {
+            "_id": "1",
             "name": "Pho",
             "image": "https://img.freepik.com/free-photo/top-view-fresh-delicious-chinese-food-dark-background_24972-2175.jpg?w=1380&t=st=1683098267~exp=1683098867~hmac=0eb8c123894929194f29adf11736a3920d1aca38ddadeeeed008656704b0cf27",
             "ingredients": "beef bones, onion, ginger, cinnamon, star anise, fish sauce, rice noodles, beef",
@@ -80,6 +87,7 @@
             "rating": 4.9
           },
           {
+            "_id": "2",
             "name": "Lasagna",
             "image": "https://img.freepik.com/premium-photo/classic-lasagna-with-bolognese-sauce_2829-16541.jpg?w=1380",
             "ingredients": "lasagna noodles, ground beef, onion, garlic, tomato sauce, ricotta cheese, mozzarella cheese, parmesan cheese",
@@ -87,6 +95,7 @@
             "rating": 4.7
           },
           {
+            "_id": "3",
             "name": "Taco Salad",
             "image": "https://img.freepik.com/free-photo/top-view-tacos-with-shrimps_23-2148629378.jpg?w=1380&t=st=1683098326~exp=1683098926~hmac=5e9d2b2d69aa253fa22acf667efbc85443f40c89132671e01f43eced863084b9",
             "ingredients": "ground turkey, taco seasoning, lettuce, tomatoes, avocado, cheddar cheese, sour cream, salsa, tortilla chips",
@@ -105,6 +114,7 @@
         "likes": 500,
         "recipes": [
           {
+            "_id": "1",
             "name": "Matcha Mille Crepe Cake",
             "image": "https://img.freepik.com/free-photo/green-pancakes-with-matcha-powder-with-red-jam-top-view_114579-7006.jpg?w=1380&t=st=1683098370~exp=1683098970~hmac=ac869d1a6053b14059c946e7584cad48ce49ec35da64fc70e2c44c591c5612d7",
             "ingredients": "eggs, sugar, milk, butter, flour, matcha powder, heavy cream",
@@ -112,6 +122,7 @@
             "rating": 4.9
           },
           {
+            "_id": "2",
             "name": "Earl Grey Macarons",
             "image": "https://img.freepik.com/free-photo/top-view-french-macarons-inside-plate-white-surface-cake-sugar-bake-biscuit-sweet-tea-cookie_140725-64718.jpg?w=1380&t=st=1683098406~exp=1683099006~hmac=208ffa3ce840b24e03ff623a686fc09f1ac6453e6b2b8b75886eb5b92affaf84",
             "ingredients": "almond flour, powdered sugar, egg whites, granulated sugar, Earl Grey tea leaves, butter, heavy cream",
@@ -119,6 +130,7 @@
             "rating": 4.7
           },
           {
+            "_id": "3",
             "name": "Sourdough Croissants",
             "image": "https://img.freepik.com/free-photo/fresh-baked-croissants_114579-11767.jpg?w=1380&t=st=1683098451~exp=1683099051~hmac=f23180fd6820af4e571ea18f862806fa3c831fd52a89290047335c7dfd364e1a",
             "ingredients": "sourdough starter, flour, sugar, salt, butter, milk",
@@ -137,6 +149,7 @@
         "likes": 2500,
         "recipes": [
           {
+            "_id": "1",
             "name": "Triple Chocolate Cake",
             "image": "https://img.freepik.com/free-photo/chocolate-cake-decorated-with-chocolate-chips_140725-4577.jpg?w=1060&t=st=1683098488~exp=1683099088~hmac=e817324509d24bc64877989dd5e2bee329b9fa220d90e74cecb77d0b8d3d14f2",
             "ingredients": "flour, sugar, cocoa powder, baking powder, baking soda, salt, eggs, milk, vegetable oil, vanilla extract, dark chocolate, milk chocolate, white chocolate",
@@ -144,6 +157,7 @@
             "rating": 4.9
           },
           {
+            "_id": "2",
             "name": "Lemon Poppy Seed Muffins",
             "image": "https://img.freepik.com/free-photo/delicious-freshly-baked-homemade-lemon-muffins-with-lemons-plate-light_114579-7605.jpg?w=1380&t=st=1683098521~exp=1683099121~hmac=1aa1affb55b4c9d81094677f4adedad3705c9a3362d967adb005b2702805e4c1",
             "ingredients": "flour, sugar, baking powder, baking soda, salt, lemon zest, lemon juice, poppy seeds, eggs, milk, vegetable oil",
@@ -151,6 +165,7 @@
             "rating": 4.7
           },
           {
+            "_id": "3",
             "name": "Red Velvet Cupcakes",
             "image": "https://img.freepik.com/free-photo/tasty-cupcake-with-raspberry_23-2148815929.jpg?w=1380&t=st=1683098554~exp=1683099154~hmac=083d93d26ff897f4da23e95cf7f351db83ad508dade32ae0c02c27959caec034",
             "ingredients": "flour, sugar, cocoa powder, baking powder, baking soda, salt, buttermilk, vegetable oil, vanilla extract, eggs, red food coloring",
@@ -169,6 +184,7 @@
         "likes": 2500,
         "recipes": [
           {
+            "_id": "1",
             "name": "Beef Wellington",
             "image": "https://img.freepik.com/free-photo/flat-lay-delicious-christmas-dish-assortment_23-2148719858.jpg?w=1380&t=st=1683098594~exp=1683099194~hmac=b3b16890420fb80e451e71a095c8404afa6c2680bb978425fbb3c79863c2c906",
             "ingredients": "beef fillet, puff pastry, mushrooms, prosciutto, mustard, egg wash",
@@ -176,6 +192,7 @@
             "rating": 4.9
           },
           {
+            "_id": "2",
             "name": "Ratatouille",
             "image": "https://img.freepik.com/free-photo/italian-caponata-with-frying-pan-wooden-table_2829-8085.jpg?w=1380&t=st=1683098622~exp=1683099222~hmac=b73f29f1a252a9fba845f5ed4ff28f166546ec6dad454930ca3c4c6bf4526d9a",
             "ingredients": "eggplant, zucchini, bell pepper, onion, garlic, tomato, olive oil, thyme",
@@ -183,6 +200,7 @@
             "rating": 4.7
           },
           {
+            "_id": "3",
             "name": "Crème Brûlée",
             "image": "https://img.freepik.com/free-photo/close-up-creme-brulee-garnished-with-berries_141793-2294.jpg?w=1380&t=st=1683098662~exp=1683099262~hmac=3871703f9c4796c2ec7f8a554b0b20d20493340aa3aeaf1ec24e3099f1d6a0b7",
             "ingredients": "heavy cream, egg yolks, sugar, vanilla extract",
@@ -190,5 +208,215 @@
             "rating": 4.8
           }
         ]
-      }       
+      },
+      {
+        "id": "7", 
+       "name": "John Doe",
+       "image": "https://img.freepik.com/free-photo/handsome-young-cook-uniform-smell-salad_171337-5349.jpg?t=st=1683078785~exp=1683079385~hmac=32c790d8c595b00672fc08ad378ea0c1bab1bb4d285ac7bb1f1e8c0e17704c91",
+       "bio": "John Doe is a professional chef with over 10 years of experience in the culinary industry. He specializes in Italian cuisine and has worked in top-rated restaurants in New York and Paris.",
+       "yearsOfExperience": 10,
+       "numberOfRecipes": 50,
+       "likes": 1000,
+       "recipes": [
+         {
+           "_id": "1",
+           "name": "Tom Yum Soup",
+           "image": "https://img.freepik.com/free-photo/thai-food-tom-yum-seafood-seafood-spicy-soup_1150-38147.jpg?w=1380&t=st=1683097972~exp=1683098572~hmac=2675a59ddbd9a8a89f6fe73e95f5c2c19e89af97605ec90f5ca7a30e85627a72",
+           "ingredients": "lemongrass, galangal, kaffir lime leaves, chili peppers, fish sauce, lime juice, shrimp",
+           "cookingMethod": "In a pot, bring water to a boil and add lemongrass, galangal, and kaffir lime leaves. Add chili peppers and fish sauce. Simmer for 5 minutes. Add shrimp and cook until they turn pink. Stir in lime juice and serve hot.",
+           "rating": 4.5
+         },
+         {
+            "_id": "2",
+           "name": "Pad Thai",
+           "image": "https://img.freepik.com/free-photo/thai-food-noodles-spicy-boil-with-pork-boil-egg_1150-27970.jpg?w=1380&t=st=1683098018~exp=1683098618~hmac=6a16ac52e596d5ae1428a0e8a15eddbdea4ffb06860f841618abe4605d1f9ab7",
+           "ingredients": "rice noodles, shrimp, tofu, eggs, bean sprouts, green onions, peanuts, tamarind paste",
+           "cookingMethod": "Soak rice noodles in water for 30 minutes. In a pan, cook shrimp and tofu until brown. Add eggs and scramble. Add noodles, bean sprouts, and green onions. Stir in tamarind paste and peanuts. Cook for 2-3 minutes, or until noodles are soft.",
+           "rating": 4.8
+         },
+         {
+            "_id": "3",
+           "name": "Green Curry",
+           "image": "https://img.freepik.com/free-photo/high-angle-chicken-meal_23-2148825122.jpg?w=1380&t=st=1683098076~exp=1683098676~hmac=ca5dfcf17a5e1a11b8d7eaad7593b2bbac6032863527f4a32bb4f15aaeec86dc",
+           "ingredients": "green curry paste, coconut milk, chicken, eggplant, bamboo shoots, basil leaves",
+           "cookingMethod": "In a pot, simmer green curry paste in coconut milk for 5 minutes. Add chicken and cook until brown. Add eggplant and bamboo shoots. Simmer for 10 minutes, or until vegetables are soft. Stir in basil leaves and serve hot with rice.",
+           "rating": 4.7
+         }
+       ]
+     },
+     {
+         "id": "8",
+         "name": "Jasmine Nguyen",
+         "image": "https://img.freepik.com/free-photo/cheerful-young-cook-uniform-pointing-you_171337-5336.jpg?t=st=1683097556~exp=1683098156~hmac=268b0c916ef16a4d3891535eed928c0453fb2de9ecbf9a9c74e52b1c2fa9abc9",
+         "bio": "Jasmine Nguyen is a renowned Thai chef with over 15 years of experience in the culinary industry. She has trained in Thailand and worked in Michelin-starred restaurants in Bangkok before opening her own restaurant in Los Angeles.",
+         "yearsOfExperience": 15,
+         "numberOfRecipes": 80,
+         "likes": 2000,
+         "recipes": [
+           {
+            "_id": "1",
+             "name": "Tom Kha Gai",
+             "image": "https://img.freepik.com/free-photo/tom-kha-kai-pan-frying-with-kaffir-lime-leaves-lemongrass-red-onion-galangal-chilli_1150-21258.jpg?w=1380&t=st=1683098125~exp=1683098725~hmac=f49a9ebbade22e3f2e9c571988fc6a627b3ab27a8fd413addbc660e51e3fedc5",
+             "ingredients": "coconut milk, chicken, galangal, lemongrass, kaffir lime leaves, mushrooms, chili peppers, fish sauce, lime juice",
+             "cookingMethod": "In a pot, bring coconut milk to a boil and add chicken, galangal, and lemongrass. Add kaffir lime leaves, mushrooms, and chili peppers. Simmer for 10 minutes. Stir in fish sauce and lime juice. Serve hot.",
+             "rating": 4.9
+           },
+           {
+            "_id": "2",
+             "name": "Massaman Curry",
+             "image": "https://img.freepik.com/free-photo/curry-with-chicken-onions-indian-food-asian-cuisine_2829-4415.jpg?w=1380&t=st=1683098163~exp=1683098763~hmac=5a01ee89f924bb8d5b0db1d48284f26ea389024a0d5ce8fbf653a8ad0e419557",
+             "ingredients": "massaman curry paste, coconut milk, beef, potatoes, peanuts, onions, cinnamon, bay leaves",
+             "cookingMethod": "In a pot, simmer massaman curry paste in coconut milk for 5 minutes. Add beef and cook until brown. Add potatoes, peanuts, and onions. Add cinnamon and bay leaves. Simmer for 20 minutes, or until vegetables are soft. Serve hot with rice.",
+             "rating": 4.7
+           },
+           {
+            "_id": "3",
+             "name": "Som Tum",
+             "image": "https://img.freepik.com/free-photo/food-mix-salad-noodles-grillea-chicken-garlic-greena-top-view_141793-15488.jpg?w=1380&t=st=1683098195~exp=1683098795~hmac=eef21598532807ec3a654d9373cc022956ddbe9a561e25bf05dccbffd6056868",
+             "ingredients": "green papaya, tomatoes, green beans, peanuts, dried shrimp, garlic, chili peppers, palm sugar, fish sauce, lime juice",
+             "cookingMethod": "In a mortar, pound garlic and chili peppers. Add palm sugar, fish sauce, and lime juice. Add shredded green papaya, sliced tomatoes, and chopped green beans. Mix well. Serve topped with peanuts and dried shrimp.",
+             "rating": 4.6
+           }
+         ]
+       },
+       {
+         "id": "9",
+         "name": "Jane Smith",
+         "image": "https://img.freepik.com/free-photo/young-handsome-cook-chef-uniform-holding-plate-with-vegetables-looking-them-keeping-hand-them-isolated-white-space_141793-45201.jpg?t=st=1683078785~exp=1683079385~hmac=a12b3c263606975b43219603a1dd9e5ee1012086a890c9a46cc8e04c7a05753b",
+         "bio": "Jane Smith is an experienced chef with over 15 years in the culinary industry. She specializes in French cuisine and has worked in top-rated restaurants in London and Tokyo.",
+         "yearsOfExperience": 15,
+         "numberOfRecipes": 75,
+         "likes": 2000,
+         "recipes": [
+           {
+            "_id": "1",
+             "name": "Pho",
+             "image": "https://img.freepik.com/free-photo/top-view-fresh-delicious-chinese-food-dark-background_24972-2175.jpg?w=1380&t=st=1683098267~exp=1683098867~hmac=0eb8c123894929194f29adf11736a3920d1aca38ddadeeeed008656704b0cf27",
+             "ingredients": "beef bones, onion, ginger, cinnamon, star anise, fish sauce, rice noodles, beef",
+             "cookingMethod": "In a pot, roast beef bones, onion, and ginger until brown. Add cinnamon and star anise. Add water and bring to a boil. Simmer for several hours. Strain broth and discard solids. Add fish sauce and cook rice noodles and beef in the broth. Serve hot.",
+             "rating": 4.9
+           },
+           {
+            "_id": "2",
+             "name": "Lasagna",
+             "image": "https://img.freepik.com/premium-photo/classic-lasagna-with-bolognese-sauce_2829-16541.jpg?w=1380",
+             "ingredients": "lasagna noodles, ground beef, onion, garlic, tomato sauce, ricotta cheese, mozzarella cheese, parmesan cheese",
+             "cookingMethod": "In a pan, brown ground beef, onion, and garlic. Add tomato sauce and simmer for 20 minutes. In a baking dish, layer lasagna noodles, beef mixture, ricotta cheese, mozzarella cheese, and parmesan cheese. Repeat layers. Bake in oven for 30-40 minutes at 375°F. Let cool for 10 minutes before serving.",
+             "rating": 4.7
+           },
+           {
+            "_id": "3",
+             "name": "Taco Salad",
+             "image": "https://img.freepik.com/free-photo/top-view-tacos-with-shrimps_23-2148629378.jpg?w=1380&t=st=1683098326~exp=1683098926~hmac=5e9d2b2d69aa253fa22acf667efbc85443f40c89132671e01f43eced863084b9",
+             "ingredients": "ground turkey, taco seasoning, lettuce, tomatoes, avocado, cheddar cheese, sour cream, salsa, tortilla chips",
+             "cookingMethod": "In a pan, cook ground turkey with taco seasoning until brown. In a bowl, mix lettuce, tomatoes, avocado, cheddar cheese, and tortilla chips. Top with ground turkey mixture, sour cream, and salsa. Serve immediately.",
+             "rating": 4.5
+           }
+         ]
+       },
+       {
+         "id": "10",
+         "name": "Sarah Lee",
+         "image": "https://img.freepik.com/free-photo/cheerful-young-cook-uniform-holding-salad-pointing-you_171337-5346.jpg?t=st=1683091746~exp=1683092346~hmac=2607b01692a0ec792bb2c5443acdc418d00cc2cd3888a23cd81490a57b908387",
+         "bio": "Sarah Lee is a self-taught baker with a passion for creating unique and delicious desserts. She started her own baking business at the age of 21 and has since gained a loyal following for her innovative cakes and pastries.",
+         "yearsOfExperience": 6,
+         "numberOfRecipes": 30,
+         "likes": 500,
+         "recipes": [
+           {
+            "_id": "1",
+             "name": "Matcha Mille Crepe Cake",
+             "image": "https://img.freepik.com/free-photo/green-pancakes-with-matcha-powder-with-red-jam-top-view_114579-7006.jpg?w=1380&t=st=1683098370~exp=1683098970~hmac=ac869d1a6053b14059c946e7584cad48ce49ec35da64fc70e2c44c591c5612d7",
+             "ingredients": "eggs, sugar, milk, butter, flour, matcha powder, heavy cream",
+             "cookingMethod": "Beat eggs and sugar until light and fluffy. Add milk, melted butter, and sifted flour. Mix until smooth. Divide the batter and mix matcha powder into one portion. Heat a non-stick pan and pour in batter to create thin crepes. Stack the crepes with layers of whipped heavy cream in between. Chill in the refrigerator for 2 hours before serving.",
+             "rating": 4.9
+           },
+           {
+            "_id": "2",
+             "name": "Earl Grey Macarons",
+             "image": "https://img.freepik.com/free-photo/top-view-french-macarons-inside-plate-white-surface-cake-sugar-bake-biscuit-sweet-tea-cookie_140725-64718.jpg?w=1380&t=st=1683098406~exp=1683099006~hmac=208ffa3ce840b24e03ff623a686fc09f1ac6453e6b2b8b75886eb5b92affaf84",
+             "ingredients": "almond flour, powdered sugar, egg whites, granulated sugar, Earl Grey tea leaves, butter, heavy cream",
+             "cookingMethod": "Sift together almond flour and powdered sugar. Beat egg whites with granulated sugar until stiff peaks form. Fold in the sifted dry ingredients and Earl Grey tea leaves. Pipe the batter into small circles on a baking sheet. Let them rest for 30 minutes before baking for 15 minutes. Mix butter, powdered sugar, and heavy cream to make the filling. Sandwich two macarons together with the filling in between.",
+             "rating": 4.7
+           },
+           {
+            "_id": "3",
+             "name": "Sourdough Croissants",
+             "image": "https://img.freepik.com/free-photo/fresh-baked-croissants_114579-11767.jpg?w=1380&t=st=1683098451~exp=1683099051~hmac=f23180fd6820af4e571ea18f862806fa3c831fd52a89290047335c7dfd364e1a",
+             "ingredients": "sourdough starter, flour, sugar, salt, butter, milk",
+             "cookingMethod": "Mix sourdough starter with flour, sugar, salt, and milk. Knead the dough and let it rest in the refrigerator overnight. Roll out the dough and add a layer of butter. Fold the dough several times to create layers. Cut the dough into triangles and roll them up into croissants. Let them rise for an hour before baking for 20-25 minutes.",
+             "rating": 4.8
+           }
+         ]
+       },
+       {
+         "id": "11",
+         "name": "Stive Smith",
+         "image": "https://img.freepik.com/premium-photo/excited-man-chef-cook-wearing-uniform-showing-fresh-green-salad-plate-isolated-white-wall_171337-54263.jpg",
+         "bio": "Stive Smith is a professional baker with a passion for creating beautiful and delicious cakes. She has been baking for over 15 years and has won multiple awards for her creations. Jane specializes in custom wedding cakes and has worked with many high-profile clients.",
+         "yearsOfExperience": 15,
+         "numberOfRecipes": 100,
+         "likes": 2500,
+         "recipes": [
+           {
+            "_id": "1",
+             "name": "Triple Chocolate Cake",
+             "image": "https://img.freepik.com/free-photo/chocolate-cake-decorated-with-chocolate-chips_140725-4577.jpg?w=1060&t=st=1683098488~exp=1683099088~hmac=e817324509d24bc64877989dd5e2bee329b9fa220d90e74cecb77d0b8d3d14f2",
+             "ingredients": "flour, sugar, cocoa powder, baking powder, baking soda, salt, eggs, milk, vegetable oil, vanilla extract, dark chocolate, milk chocolate, white chocolate",
+             "cookingMethod": "Preheat the oven to 350 degrees F. In a bowl, combine flour, sugar, cocoa powder, baking powder, baking soda, and salt. In another bowl, beat eggs, milk, vegetable oil, and vanilla extract. Gradually add the dry ingredients to the wet mixture, stirring well. Fold in the chopped dark chocolate, milk chocolate, and white chocolate. Pour the batter into a greased cake pan and bake for 40-45 minutes, or until a toothpick inserted into the center comes out clean. Let cool and serve.",
+             "rating": 4.9
+           },
+           {
+            "_id": "2",
+             "name": "Lemon Poppy Seed Muffins",
+             "image": "https://img.freepik.com/free-photo/delicious-freshly-baked-homemade-lemon-muffins-with-lemons-plate-light_114579-7605.jpg?w=1380&t=st=1683098521~exp=1683099121~hmac=1aa1affb55b4c9d81094677f4adedad3705c9a3362d967adb005b2702805e4c1",
+             "ingredients": "flour, sugar, baking powder, baking soda, salt, lemon zest, lemon juice, poppy seeds, eggs, milk, vegetable oil",
+             "cookingMethod": "Preheat the oven to 375 degrees F. In a bowl, combine flour, sugar, baking powder, baking soda, salt, lemon zest, and poppy seeds. In another bowl, beat eggs, milk, vegetable oil, and lemon juice. Gradually add the dry ingredients to the wet mixture, stirring well. Pour the batter into greased muffin cups and bake for 20-25 minutes, or until a toothpick inserted into the center comes out clean. Let cool and serve.",
+             "rating": 4.7
+           },
+           {
+            "_id": "3",
+             "name": "Red Velvet Cupcakes",
+             "image": "https://img.freepik.com/free-photo/tasty-cupcake-with-raspberry_23-2148815929.jpg?w=1380&t=st=1683098554~exp=1683099154~hmac=083d93d26ff897f4da23e95cf7f351db83ad508dade32ae0c02c27959caec034",
+             "ingredients": "flour, sugar, cocoa powder, baking powder, baking soda, salt, buttermilk, vegetable oil, vanilla extract, eggs, red food coloring",
+             "cookingMethod": "Preheat the oven to 350 degrees F. In a bowl, combine flour, sugar, cocoa powder, baking powder, baking soda, and salt. In another bowl, beat buttermilk, vegetable oil, vanilla extract, eggs, and red food coloring. Gradually add the dry ingredients to the wet mixture, stirring well. Pour the batter into greased cupcake cups and bake for 18-20 minutes, or until a toothpick inserted into the center comes out clean. Let cool and top with cream cheese frosting.",
+             "rating": 4.8
+           }
+         ]
+       },
+       {
+         "id": "12",
+         "name": "Jane Doe",
+         "image": "https://img.freepik.com/free-photo/smiling-young-male-cook-wearing-chef-uniform-holding-frying-pan-showing-okey-gesture_141793-37997.jpg?t=st=1683097887~exp=1683098487~hmac=81af1d891ebab7dc7c8072dfc6d57c2e2d7fc9e80b21df4fcbe3848e9bb7eee2",
+         "bio": "Jane Doe is a chef with over 15 years of experience in the culinary industry. She specializes in French cuisine and has worked in top-rated restaurants in London and Tokyo.",
+         "yearsOfExperience": 15,
+         "numberOfRecipes": 75,
+         "likes": 2500,
+         "recipes": [
+           {
+            "_id": "1",
+             "name": "Beef Wellington",
+             "image": "https://img.freepik.com/free-photo/flat-lay-delicious-christmas-dish-assortment_23-2148719858.jpg?w=1380&t=st=1683098594~exp=1683099194~hmac=b3b16890420fb80e451e71a095c8404afa6c2680bb978425fbb3c79863c2c906",
+             "ingredients": "beef fillet, puff pastry, mushrooms, prosciutto, mustard, egg wash",
+             "cookingMethod": "Season the beef fillet with salt and pepper, then sear it in a hot pan for 2 minutes on each side. Remove from the pan and let it cool. In the same pan, cook the mushrooms until they are brown and dry. Roll out the puff pastry, and layer prosciutto, mushrooms, and mustard on top of it. Place the beef fillet in the center of the pastry and fold the pastry over the top, tucking in the edges. Brush with egg wash and bake in a preheated oven at 200C for 30 minutes, or until the pastry is golden brown and crispy.",
+             "rating": 4.9
+           },
+           {
+            "_id": "2",
+             "name": "Ratatouille",
+             "image": "https://img.freepik.com/free-photo/italian-caponata-with-frying-pan-wooden-table_2829-8085.jpg?w=1380&t=st=1683098622~exp=1683099222~hmac=b73f29f1a252a9fba845f5ed4ff28f166546ec6dad454930ca3c4c6bf4526d9a",
+             "ingredients": "eggplant, zucchini, bell pepper, onion, garlic, tomato, olive oil, thyme",
+             "cookingMethod": "Preheat the oven to 375F. Slice the eggplant, zucchini, bell pepper, and tomato into thin rounds. In a casserole dish, layer the vegetables in an alternating pattern. Drizzle olive oil over the top and sprinkle with chopped garlic and thyme. Cover with foil and bake for 45 minutes. Remove the foil and bake for another 15 minutes, or until the vegetables are tender and slightly browned.",
+             "rating": 4.7
+           },
+           {
+            "_id": "3",
+             "name": "Crème Brûlée",
+             "image": "https://img.freepik.com/free-photo/close-up-creme-brulee-garnished-with-berries_141793-2294.jpg?w=1380&t=st=1683098662~exp=1683099262~hmac=3871703f9c4796c2ec7f8a554b0b20d20493340aa3aeaf1ec24e3099f1d6a0b7",
+             "ingredients": "heavy cream, egg yolks, sugar, vanilla extract",
+             "cookingMethod": "Preheat the oven to 325F. In a saucepan, heat the heavy cream until it begins to steam. In a bowl, whisk the egg yolks, sugar, and vanilla extract until they are pale and frothy. Slowly pour the cream into the egg mixture while whisking constantly. Strain the mixture through a fine-mesh sieve into a large measuring cup. Place ramekins in a baking dish, and pour the custard mixture into the ramekins. Pour hot water into the baking dish until it reaches halfway up the sides of the ramekins. Bake for 35-40 minutes, or until the custard is set. Chill the custard in the fridge for at least 2 hours. Sprinkle sugar over the top of each custard, and use a kitchen torch to caramelize the sugar until it is golden brown and crackly.",
+             "rating": 4.8
+           }
+         ]
+       }            
 ]

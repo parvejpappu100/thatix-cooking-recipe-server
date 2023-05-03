@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "img": "https://img.freepik.com/free-photo/chopped-minced-chicken-mushroom-salad-with-colorful-bell-peppers-fresh-parsley_114579-1873.jpg?w=1380&t=st=1683121762~exp=1683122362~hmac=eacf43e6d5d01100a9a231067dc5000b1481fea944ad355fa4f325586dd14c81",
+        "name":"Appetizers"
+    },
+    {
+        "id": "2",
+        "img": "https://img.freepik.com/free-photo/pieces-raw-fresh-meat-isolated-black-stone-board_346278-819.jpg?w=826&t=st=1683122148~exp=1683122748~hmac=c49753c6105babadf4ed2cb4f872f4db4a6dc2aea3dd9f37a353a4542573d7b0",
+        "name":"Beef"
+    },
+    {
+        "id": "3",
+        "img": "https://img.freepik.com/free-photo/crispy-fried-chicken-plate-with-salad-carrot_1150-20212.jpg?w=1380&t=st=1683122200~exp=1683122800~hmac=92f687bbf1dd9ccf636289ce04545d6a2a87a0de2a498e469788141f648d47ca",
+        "name":"Chicken"
+    },
+    {
+        "id": "4",
+        "img": "https://img.freepik.com/free-photo/grilled-chicken-rice-spicy-chickpeas-avocado-cabbage-pepper-buddha-bowl_127032-1996.jpg?w=826&t=st=1683123135~exp=1683123735~hmac=7fd20ad4483b649693b97f3acbcaa35fc60b9197dea008849d1e30f519cb2ad6",
+        "name":"Vegetarian"
+    },
+    {
+        "id": "5",
+        "img": "https://img.freepik.com/free-photo/front-view-sweet-pancakes-tower-arrangement_23-2148654085.jpg?w=1380&t=st=1683122340~exp=1683122940~hmac=86fddc84186aaf30497df6c01d6e550428258f2d27cd269a452b16a208e29efa",
+        "name":"Desserts"
+    }
+]

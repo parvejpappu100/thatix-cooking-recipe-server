@@ -1,0 +1,194 @@
+[
+    {
+       "id": "1", 
+      "name": "John Doe",
+      "image": "https://example.com/johndoe.jpg",
+      "bio": "John Doe is a professional chef with over 10 years of experience in the culinary industry. He specializes in Italian cuisine and has worked in top-rated restaurants in New York and Paris.",
+      "yearsOfExperience": 10,
+      "numberOfRecipes": 50,
+      "likes": 1000,
+      "recipes": [
+        {
+          "name": "Tom Yum Soup",
+          "image": "https://example.com/tom_yum_soup.jpg",
+          "ingredients": "lemongrass, galangal, kaffir lime leaves, chili peppers, fish sauce, lime juice, shrimp",
+          "cookingMethod": "In a pot, bring water to a boil and add lemongrass, galangal, and kaffir lime leaves. Add chili peppers and fish sauce. Simmer for 5 minutes. Add shrimp and cook until they turn pink. Stir in lime juice and serve hot.",
+          "rating": 4.5
+        },
+        {
+          "name": "Pad Thai",
+          "image": "https://example.com/pad_thai.jpg",
+          "ingredients": "rice noodles, shrimp, tofu, eggs, bean sprouts, green onions, peanuts, tamarind paste",
+          "cookingMethod": "Soak rice noodles in water for 30 minutes. In a pan, cook shrimp and tofu until brown. Add eggs and scramble. Add noodles, bean sprouts, and green onions. Stir in tamarind paste and peanuts. Cook for 2-3 minutes, or until noodles are soft.",
+          "rating": 4.8
+        },
+        {
+          "name": "Green Curry",
+          "image": "https://example.com/green_curry.jpg",
+          "ingredients": "green curry paste, coconut milk, chicken, eggplant, bamboo shoots, basil leaves",
+          "cookingMethod": "In a pot, simmer green curry paste in coconut milk for 5 minutes. Add chicken and cook until brown. Add eggplant and bamboo shoots. Simmer for 10 minutes, or until vegetables are soft. Stir in basil leaves and serve hot with rice.",
+          "rating": 4.7
+        }
+      ]
+    },
+    {
+        "id": "2",
+        "name": "Jasmine Nguyen",
+        "image": "https://example.com/jasminenguyen.jpg",
+        "bio": "Jasmine Nguyen is a renowned Thai chef with over 15 years of experience in the culinary industry. She has trained in Thailand and worked in Michelin-starred restaurants in Bangkok before opening her own restaurant in Los Angeles.",
+        "yearsOfExperience": 15,
+        "numberOfRecipes": 80,
+        "likes": 2000,
+        "recipes": [
+          {
+            "name": "Tom Kha Gai",
+            "image": "https://example.com/tom_kha_gai.jpg",
+            "ingredients": "coconut milk, chicken, galangal, lemongrass, kaffir lime leaves, mushrooms, chili peppers, fish sauce, lime juice",
+            "cookingMethod": "In a pot, bring coconut milk to a boil and add chicken, galangal, and lemongrass. Add kaffir lime leaves, mushrooms, and chili peppers. Simmer for 10 minutes. Stir in fish sauce and lime juice. Serve hot.",
+            "rating": 4.9
+          },
+          {
+            "name": "Massaman Curry",
+            "image": "https://example.com/massaman_curry.jpg",
+            "ingredients": "massaman curry paste, coconut milk, beef, potatoes, peanuts, onions, cinnamon, bay leaves",
+            "cookingMethod": "In a pot, simmer massaman curry paste in coconut milk for 5 minutes. Add beef and cook until brown. Add potatoes, peanuts, and onions. Add cinnamon and bay leaves. Simmer for 20 minutes, or until vegetables are soft. Serve hot with rice.",
+            "rating": 4.7
+          },
+          {
+            "name": "Som Tum",
+            "image": "https://example.com/som_tum.jpg",
+            "ingredients": "green papaya, tomatoes, green beans, peanuts, dried shrimp, garlic, chili peppers, palm sugar, fish sauce, lime juice",
+            "cookingMethod": "In a mortar, pound garlic and chili peppers. Add palm sugar, fish sauce, and lime juice. Add shredded green papaya, sliced tomatoes, and chopped green beans. Mix well. Serve topped with peanuts and dried shrimp.",
+            "rating": 4.6
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Jane Smith",
+        "image": "https://example.com/janesmith.jpg",
+        "bio": "Jane Smith is an experienced chef with over 15 years in the culinary industry. She specializes in French cuisine and has worked in top-rated restaurants in London and Tokyo.",
+        "yearsOfExperience": 15,
+        "numberOfRecipes": 75,
+        "likes": 2000,
+        "recipes": [
+          {
+            "name": "Pho",
+            "image": "https://example.com/pho.jpg",
+            "ingredients": "beef bones, onion, ginger, cinnamon, star anise, fish sauce, rice noodles, beef",
+            "cookingMethod": "In a pot, roast beef bones, onion, and ginger until brown. Add cinnamon and star anise. Add water and bring to a boil. Simmer for several hours. Strain broth and discard solids. Add fish sauce and cook rice noodles and beef in the broth. Serve hot.",
+            "rating": 4.9
+          },
+          {
+            "name": "Lasagna",
+            "image": "https://example.com/lasagna.jpg",
+            "ingredients": "lasagna noodles, ground beef, onion, garlic, tomato sauce, ricotta cheese, mozzarella cheese, parmesan cheese",
+            "cookingMethod": "In a pan, brown ground beef, onion, and garlic. Add tomato sauce and simmer for 20 minutes. In a baking dish, layer lasagna noodles, beef mixture, ricotta cheese, mozzarella cheese, and parmesan cheese. Repeat layers. Bake in oven for 30-40 minutes at 375°F. Let cool for 10 minutes before serving.",
+            "rating": 4.7
+          },
+          {
+            "name": "Taco Salad",
+            "image": "https://example.com/taco_salad.jpg",
+            "ingredients": "ground turkey, taco seasoning, lettuce, tomatoes, avocado, cheddar cheese, sour cream, salsa, tortilla chips",
+            "cookingMethod": "In a pan, cook ground turkey with taco seasoning until brown. In a bowl, mix lettuce, tomatoes, avocado, cheddar cheese, and tortilla chips. Top with ground turkey mixture, sour cream, and salsa. Serve immediately.",
+            "rating": 4.5
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "name": "Sarah Lee",
+        "image": "https://example.com/sarahlee.jpg",
+        "bio": "Sarah Lee is a self-taught baker with a passion for creating unique and delicious desserts. She started her own baking business at the age of 21 and has since gained a loyal following for her innovative cakes and pastries.",
+        "yearsOfExperience": 6,
+        "numberOfRecipes": 30,
+        "likes": 500,
+        "recipes": [
+          {
+            "name": "Matcha Mille Crepe Cake",
+            "image": "https://example.com/matcha_mille_crepes.jpg",
+            "ingredients": "eggs, sugar, milk, butter, flour, matcha powder, heavy cream",
+            "cookingMethod": "Beat eggs and sugar until light and fluffy. Add milk, melted butter, and sifted flour. Mix until smooth. Divide the batter and mix matcha powder into one portion. Heat a non-stick pan and pour in batter to create thin crepes. Stack the crepes with layers of whipped heavy cream in between. Chill in the refrigerator for 2 hours before serving.",
+            "rating": 4.9
+          },
+          {
+            "name": "Earl Grey Macarons",
+            "image": "https://example.com/earl_grey_macarons.jpg",
+            "ingredients": "almond flour, powdered sugar, egg whites, granulated sugar, Earl Grey tea leaves, butter, heavy cream",
+            "cookingMethod": "Sift together almond flour and powdered sugar. Beat egg whites with granulated sugar until stiff peaks form. Fold in the sifted dry ingredients and Earl Grey tea leaves. Pipe the batter into small circles on a baking sheet. Let them rest for 30 minutes before baking for 15 minutes. Mix butter, powdered sugar, and heavy cream to make the filling. Sandwich two macarons together with the filling in between.",
+            "rating": 4.7
+          },
+          {
+            "name": "Sourdough Croissants",
+            "image": "https://example.com/sourdough_croissants.jpg",
+            "ingredients": "sourdough starter, flour, sugar, salt, butter, milk",
+            "cookingMethod": "Mix sourdough starter with flour, sugar, salt, and milk. Knead the dough and let it rest in the refrigerator overnight. Roll out the dough and add a layer of butter. Fold the dough several times to create layers. Cut the dough into triangles and roll them up into croissants. Let them rise for an hour before baking for 20-25 minutes.",
+            "rating": 4.8
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "name": "Stive Smith",
+        "image": "https://example.com/janesmith.jpg",
+        "bio": "Stive Smith is a professional baker with a passion for creating beautiful and delicious cakes. She has been baking for over 15 years and has won multiple awards for her creations. Jane specializes in custom wedding cakes and has worked with many high-profile clients.",
+        "yearsOfExperience": 15,
+        "numberOfRecipes": 100,
+        "likes": 2500,
+        "recipes": [
+          {
+            "name": "Triple Chocolate Cake",
+            "image": "https://example.com/triple_chocolate_cake.jpg",
+            "ingredients": "flour, sugar, cocoa powder, baking powder, baking soda, salt, eggs, milk, vegetable oil, vanilla extract, dark chocolate, milk chocolate, white chocolate",
+            "cookingMethod": "Preheat the oven to 350 degrees F. In a bowl, combine flour, sugar, cocoa powder, baking powder, baking soda, and salt. In another bowl, beat eggs, milk, vegetable oil, and vanilla extract. Gradually add the dry ingredients to the wet mixture, stirring well. Fold in the chopped dark chocolate, milk chocolate, and white chocolate. Pour the batter into a greased cake pan and bake for 40-45 minutes, or until a toothpick inserted into the center comes out clean. Let cool and serve.",
+            "rating": 4.9
+          },
+          {
+            "name": "Lemon Poppy Seed Muffins",
+            "image": "https://example.com/lemon_poppy_seed_muffins.jpg",
+            "ingredients": "flour, sugar, baking powder, baking soda, salt, lemon zest, lemon juice, poppy seeds, eggs, milk, vegetable oil",
+            "cookingMethod": "Preheat the oven to 375 degrees F. In a bowl, combine flour, sugar, baking powder, baking soda, salt, lemon zest, and poppy seeds. In another bowl, beat eggs, milk, vegetable oil, and lemon juice. Gradually add the dry ingredients to the wet mixture, stirring well. Pour the batter into greased muffin cups and bake for 20-25 minutes, or until a toothpick inserted into the center comes out clean. Let cool and serve.",
+            "rating": 4.7
+          },
+          {
+            "name": "Red Velvet Cupcakes",
+            "image": "https://example.com/red_velvet_cupcakes.jpg",
+            "ingredients": "flour, sugar, cocoa powder, baking powder, baking soda, salt, buttermilk, vegetable oil, vanilla extract, eggs, red food coloring",
+            "cookingMethod": "Preheat the oven to 350 degrees F. In a bowl, combine flour, sugar, cocoa powder, baking powder, baking soda, and salt. In another bowl, beat buttermilk, vegetable oil, vanilla extract, eggs, and red food coloring. Gradually add the dry ingredients to the wet mixture, stirring well. Pour the batter into greased cupcake cups and bake for 18-20 minutes, or until a toothpick inserted into the center comes out clean. Let cool and top with cream cheese frosting.",
+            "rating": 4.8
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "name": "Jane Doe",
+        "image": "https://example.com/janesmith.jpg",
+        "bio": "Jane Doe is a chef with over 15 years of experience in the culinary industry. She specializes in French cuisine and has worked in top-rated restaurants in London and Tokyo.",
+        "yearsOfExperience": 15,
+        "numberOfRecipes": 75,
+        "likes": 2500,
+        "recipes": [
+          {
+            "name": "Beef Wellington",
+            "image": "https://example.com/beef_wellington.jpg",
+            "ingredients": "beef fillet, puff pastry, mushrooms, prosciutto, mustard, egg wash",
+            "cookingMethod": "Season the beef fillet with salt and pepper, then sear it in a hot pan for 2 minutes on each side. Remove from the pan and let it cool. In the same pan, cook the mushrooms until they are brown and dry. Roll out the puff pastry, and layer prosciutto, mushrooms, and mustard on top of it. Place the beef fillet in the center of the pastry and fold the pastry over the top, tucking in the edges. Brush with egg wash and bake in a preheated oven at 200C for 30 minutes, or until the pastry is golden brown and crispy.",
+            "rating": 4.9
+          },
+          {
+            "name": "Ratatouille",
+            "image": "https://example.com/ratatouille.jpg",
+            "ingredients": "eggplant, zucchini, bell pepper, onion, garlic, tomato, olive oil, thyme",
+            "cookingMethod": "Preheat the oven to 375F. Slice the eggplant, zucchini, bell pepper, and tomato into thin rounds. In a casserole dish, layer the vegetables in an alternating pattern. Drizzle olive oil over the top and sprinkle with chopped garlic and thyme. Cover with foil and bake for 45 minutes. Remove the foil and bake for another 15 minutes, or until the vegetables are tender and slightly browned.",
+            "rating": 4.7
+          },
+          {
+            "name": "Crème Brûlée",
+            "image": "https://example.com/creme_brulee.jpg",
+            "ingredients": "heavy cream, egg yolks, sugar, vanilla extract",
+            "cookingMethod": "Preheat the oven to 325F. In a saucepan, heat the heavy cream until it begins to steam. In a bowl, whisk the egg yolks, sugar, and vanilla extract until they are pale and frothy. Slowly pour the cream into the egg mixture while whisking constantly. Strain the mixture through a fine-mesh sieve into a large measuring cup. Place ramekins in a baking dish, and pour the custard mixture into the ramekins. Pour hot water into the baking dish until it reaches halfway up the sides of the ramekins. Bake for 35-40 minutes, or until the custard is set. Chill the custard in the fridge for at least 2 hours. Sprinkle sugar over the top of each custard, and use a kitchen torch to caramelize the sugar until it is golden brown and crackly.",
+            "rating": 4.8
+          }
+        ]
+      }       
+]
